@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c1",
+    "name": "MSA 2025",
+    "parties": "Microsoft & ABC Corp",
+    "expiry": "2025-12-31",
+    "status": "Active",
+    "risk": "Medium"
+  },
+  {
+    "id": "c2",
+    "name": "Network Services Agreement",
+    "parties": "TelNet & ABC Corp",
+    "expiry": "2025-10-10",
+    "status": "Renewal Due",
+    "risk": "High"
+  },
+  {
+    "id": "c3",
+    "name": "Cloud Hosting Contract",
+    "parties": "AWS & XYZ Ltd",
+    "expiry": "2024-11-30",
+    "status": "Expired",
+    "risk": "Low"
+  },
+  {
+    "id": "c4",
+    "name": "Software License Agreement",
+    "parties": "Oracle & Alpha Tech",
+    "expiry": "2026-01-15",
+    "status": "Active",
+    "risk": "Medium"
+  },
+  {
+    "id": "c5",
+    "name": "Data Processing Agreement",
+    "parties": "DataCorp & Beta Solutions",
+    "expiry": "2025-06-30",
+    "status": "Renewal Due",
+    "risk": "High"
+  },
+  {
+    "id": "c6",
+    "name": "Security Audit Contract",
+    "parties": "SecureIt & Gamma Enterprises",
+    "expiry": "2024-09-10",
+    "status": "Expired",
+    "risk": "Low"
+  },
+  {
+    "id": "c7",
+    "name": "Maintenance Agreement",
+    "parties": "TechSupport & Delta Corp",
+    "expiry": "2025-03-22",
+    "status": "Active",
+    "risk": "Low"
+  },
+  {
+    "id": "c8",
+    "name": "Consulting Agreement",
+    "parties": "Advisors Inc & Epsilon Group",
+    "expiry": "2025-08-05",
+    "status": "Renewal Due",
+    "risk": "Medium"
+  },
+  {
+    "id": "c9",
+    "name": "Partnership Agreement",
+    "parties": "Innovate Ltd & Zeta Solutions",
+    "expiry": "2024-12-31",
+    "status": "Active",
+    "risk": "High"
+  },
+  {
+    "id": "c10",
+    "name": "Non-Disclosure Agreement",
+    "parties": "Privacy Corp & Theta Tech",
+    "expiry": "2025-04-14",
+    "status": "Renewal Due",
+    "risk": "Medium"
+  },
+  {
+    "id": "c11",
+    "name": "Service Level Agreement",
+    "parties": "NetSys & Iota Industries",
+    "expiry": "2024-10-20",
+    "status": "Expired",
+    "risk": "Low"
+  },
+  {
+    "id": "c12",
+    "name": "Employment Contract",
+    "parties": "HR Group & Kappa Solutions",
+    "expiry": "2025-11-11",
+    "status": "Active",
+    "risk": "Medium"
+  }
+]
